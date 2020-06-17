@@ -83,9 +83,9 @@ const Main = () => {
 				</div>
 			</div>
 
-			<div className="row fixed-bottom">
+			<div className="row">
 				<div className="col-12">
-					<footer className="text-center bg-light">
+					<footer className="text-center bg-light fixed-bottom mt-3">
 						<p className="lead">
 							Developed by : &nbsp;
 							<a
