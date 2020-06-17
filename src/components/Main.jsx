@@ -10,7 +10,7 @@ const Main = () => {
 		<Fragment>
 			<div className="row">
 				<div className="col-12">
-					<div className="jumbotron text-center ">
+					<div className="jumbotron text-center">
 						<h3 className="chanCode">စာမေးပွဲ အောင်စားရင်း</h3>
 						<p className="chanCode">
 							ဆယ်တန်းအောင်စားရင်းများကို လွယ်ကူစွာရှာဖွေကြည့်ရှနိုင်ပါသည်။
@@ -21,7 +21,7 @@ const Main = () => {
 
 			<div className="row">
 				<div className="col-12">
-					<ul className="nav nav-tabs sticky-top bg-light mx-auto">
+					<ul className="nav nav-tabs sticky-top bg-light">
 						<li className="nav-item">
 							<a className="nav-link active text-dark" href="#home">
 								၂၀၁၆
@@ -83,23 +83,21 @@ const Main = () => {
 				</div>
 			</div>
 
-			<div className="fixed-bottom">
-				<div className="row">
-					<div className="col-12">
-						<footer className="bg-light text-center p-3">
-							<p className="lead">
-								Developed by : &nbsp;
-								<a
-									className="chan-href text-primary"
-									href="fb:/profile/100010530133859"
-									target="_blank"
-									rel="noopener noreferrer"
-								>
-									Chan Myae Maung
-								</a>
-							</p>
-						</footer>
-					</div>
+			<div className="row">
+				<div className="col-12">
+					<footer className="bg-light text-center">
+						<p className="lead">
+							Developed by : &nbsp;
+							<a
+								className="chan-href text-primary"
+								href="fb:/profile/100010530133859"
+								target="_blank"
+								rel="noopener noreferrer"
+							>
+								Chan Myae Maung
+							</a>
+						</p>
+					</footer>
 				</div>
 			</div>
 		</Fragment>
