@@ -91,7 +91,7 @@ const Main = () => {
 							<a
 								className="chan-href text-primary"
 								href="fb:/profile/100010530133859"
-								target="_blank"
+								target="_top"
 								rel="noopener noreferrer"
 							>
 								Chan Myae Maung
