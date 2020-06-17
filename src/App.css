@@ -1,38 +1,81 @@
-.App {
-  text-align: center;
+@import url('https://mmwebfonts.comquas.com/fonts/?font=oursunicode');
+
+body {
+	scroll-behavior: smooth;
+	font-family: 'Ours-Unicode';
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.chanCode {
+	font-family: 'Ours-Unicode';
+	font-weight: lighter;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+p {
+	font-family: 'Notosan Myanmar';
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.e2016 {
+	color: #444;
 }
 
-.App-link {
-  color: #61dafb;
+.e2016:hover {
+	background-color: #acacac;
+	color: #fff;
+	transition: 0.5s;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.e2017 {
+	color: rgb(23, 133, 73);
+}
+
+.e2017:hover {
+	background-color: #4b5845;
+	color: #fff;
+	transition: 0.5s;
+}
+
+.e2018 {
+	color: rgb(23, 88, 172);
+}
+
+.e2018:hover {
+	background-color: #2257b97c;
+	color: #fff;
+	transition: 0.5s;
+}
+
+.e2019 {
+	color: rgb(212, 19, 116);
+}
+
+.e2019:hover {
+	background-color: #b941bdf5;
+	color: #fff;
+	transition: 0.5s;
+}
+
+.e2020 {
+	color: rgb(57, 5, 124);
+}
+
+.e2020:hover {
+	background-color: #682f9ef5;
+	color: #fff;
+	transition: 0.5s;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
+
+a {
+	cursor: pointer;
+	text-decoration: none !important;
 }

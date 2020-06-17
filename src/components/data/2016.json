@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"name": "ရန်ကုန်တိုင်းဒေသကြီး + နိုင်ငံခြား",
+		"url": "https://2016.myanmarexam.org/yangon.html",
+		"year": 2016
+	},
+	{
+		"id": 2,
+		"name": "မန္တလေးတိုင်းဒေသကြီး",
+		"url": "https://2016.myanmarexam.org/mandalay.html",
+		"year": 2016
+	},
+	{
+		"id": 3,
+		"name": "နေပြည်တော်",
+		"url": "https://2016.myanmarexam.org/naypyitaw.html",
+		"year": 2016
+	},
+	{
+		"id": 4,
+		"name": "ဧရာဝတီတိုင်းဒေသကြီး",
+		"url": "https://2016.myanmarexam.org/ayeyarwaddy.html",
+		"year": 2016
+	},
+	{
+		"id": 5,
+		"name": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+		"url": "https://2016.myanmarexam.org/sagaing.html",
+		"year": 2016
+	},
+	{
+		"id": 6,
+		"name": "မကွေးတိုင်းဒေသကြီး",
+		"url": "https://2016.myanmarexam.org/magway.html",
+		"year": 2016
+	},
+	{
+		"id": 7,
+		"name": "ပဲခူးတိုင်းဒေသကြီး",
+		"url": "https://2016.myanmarexam.org/bago.html",
+		"year": 2016
+	},
+	{
+		"id": 8,
+		"name": "တနင်္သာရီတိုင်းဒေသကြီး",
+		"url": "https://2016.myanmarexam.org/tanintharyi.html",
+		"year": 2016
+	},
+	{
+		"id": 9,
+		"name": "ကချင်ပြည်နယ်",
+		"url": "https://2016.myanmarexam.org/kachin.html",
+		"year": 2016
+	},
+	{
+		"id": 10,
+		"name": "ကယားပြည်နယ်",
+		"url": "https://2016.myanmarexam.org/kayah.html",
+		"year": 2016
+	},
+	{
+		"id": 11,
+		"name": "ကရင်ပြည်နယ်",
+		"url": "https://2016.myanmarexam.org/kayin.html",
+		"year": 2016
+	},
+	{
+		"id": 12,
+		"name": "ချင်းပြည်နယ်",
+		"url": "https://2016.myanmarexam.org/chin.html",
+		"year": 2016
+	},
+	{
+		"id": 13,
+		"name": "မွန်ပြည်နယ်",
+		"url": "https://2016.myanmarexam.org/mon.html",
+		"year": 2016
+	},
+	{
+		"id": 14,
+		"name": "ရခိုင်ပြည်နယ်",
+		"url": "https://2016.myanmarexam.org/yakhine.html",
+		"year": 2016
+	},
+	{
+		"id": 15,
+		"name": "ရှမ်းပြည်နယ်",
+		"url": "https://2016.myanmarexam.org/shan.html",
+		"year": 2016
+	}
+]
