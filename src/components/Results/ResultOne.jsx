@@ -8,7 +8,7 @@ const ResultOne = () => {
 				return (
 					<a
 						href={data.url}
-						className="chan-href list-group-item list-group-item-action"
+						className="chan-href list-group-item-action"
 						target="_blank"
 						rel="noopener noreferrer"
 					>

@@ -11,7 +11,7 @@ const Main = () => {
 			<div className="row">
 				<div className="col-12">
 					<div className="jumbotron text-center">
-						<h3 className="chanCode">စာမေးပွဲ အောင်စားရင်း</h3>
+						<h3 className="chanCode py-5	">စာမေးပွဲ အောင်စားရင်း</h3>
 						<p className="chanCode">
 							ဆယ်တန်းအောင်စားရင်းများကို လွယ်ကူစွာရှာဖွေကြည့်ရှနိုင်ပါသည်။
 						</p>
@@ -49,33 +49,33 @@ const Main = () => {
 						</li>
 					</ul>
 
-					<div className="tab-content">
+					<div className="tab-content mb-5">
 						<div id="home" className="container tab-pane active">
-							<ul className="list-group mt-3">
+							<ul className="list-group my-2">
 								<ResultOne />
 							</ul>
 						</div>
 						<div id="menu1" className="container tab-pane fade">
 							<br />
-							<ul className="list-group mt-3" id="year2017">
+							<ul className="list-group my-2" id="year2017">
 								<ResultTwo />
 							</ul>
 						</div>
 						<div id="menu2" className="container tab-pane fade">
 							<br />
-							<ul className="list-group mt-3" id="year2018">
+							<ul className="list-group my-2" id="year2018">
 								<ResultThree />
 							</ul>
 						</div>
 						<div id="menu4" className="container tab-pane fade">
 							<br />
-							<ul className="list-group mt-3" id="year2019">
+							<ul className="list-group my-2" id="year2019">
 								<ResultFour />
 							</ul>
 						</div>
 						<div id="menu5" className="container tab-pane fade">
 							<br />
-							<ul className="list-group mt-3" id="year2020">
+							<ul className="list-group my-2" id="year2020">
 								<ResultFive />
 							</ul>
 						</div>
@@ -83,9 +83,9 @@ const Main = () => {
 				</div>
 			</div>
 
-			<div className="row">
+			<div className="row fixed-bottom">
 				<div className="col-12">
-					<footer className="bg-light text-center">
+					<footer className="text-center bg-light">
 						<p className="lead">
 							Developed by : &nbsp;
 							<a

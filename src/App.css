@@ -79,3 +79,7 @@ a {
 	cursor: pointer;
 	text-decoration: none !important;
 }
+
+.col-12 {
+	margin-top: -33px !important;
+}
