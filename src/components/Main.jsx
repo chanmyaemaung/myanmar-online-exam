@@ -11,7 +11,7 @@ const Main = () => {
 			<div className="row">
 				<div className="col-12">
 					<div className="jumbotron text-center">
-						<h3 className="chanCode py-5	">စာမေးပွဲ အောင်စားရင်း</h3>
+						<h3 className="chanCode py-3">စာမေးပွဲ အောင်စာရင်း</h3>
 						<p className="chanCode">
 							ဆယ်တန်းအောင်စားရင်းများကို လွယ်ကူစွာရှာဖွေကြည့်ရှနိုင်ပါသည်။
 						</p>
