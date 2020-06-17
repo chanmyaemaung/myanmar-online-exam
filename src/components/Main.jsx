@@ -3,7 +3,7 @@ import ResultOne from './Results/ResultOne';
 import ResultTwo from './Results/ResultTwo';
 import ResultThree from './Results/ResultThree';
 import ResultFour from './Results/ResultFour';
-import ResultFive from './Results/ResultFive';
+// import ResultFive from './Results/ResultFive';
 
 const Main = () => {
 	return (
@@ -42,11 +42,11 @@ const Main = () => {
 								၂၀၁၉
 							</a>
 						</li>
-						<li className="nav-item">
+						{/* <li className="nav-item">
 							<a className="nav-link text-info" href="#menu5">
 								၂၀၂၀
 							</a>
-						</li>
+						</li> */}
 					</ul>
 
 					<div className="tab-content mb-5">
@@ -73,12 +73,12 @@ const Main = () => {
 								<ResultFour />
 							</ul>
 						</div>
-						<div id="menu5" className="container tab-pane fade">
+						{/* <div id="menu5" className="container tab-pane fade">
 							<br />
 							<ul className="list-group my-2" id="year2020">
 								<ResultFive />
 							</ul>
-						</div>
+						</div> */}
 					</div>
 				</div>
 			</div>
