@@ -90,7 +90,7 @@ const Main = () => {
 							Developed by : &nbsp;
 							<a
 								className="chan-href text-primary"
-								href="fb:/profile/100010530133859"
+								href="https://facebook.com/chanlaymcmm"
 								target="_top"
 								rel="noopener noreferrer"
 							>

@@ -14,7 +14,7 @@ const ResultFive = () => {
 					>
 						<li
 							key={index}
-							className="list-group-item d-flex justify-content-between align-items-center e2016"
+							className="list-group-item d-flex justify-content-between align-items-center e2016 chanCode"
 						>
 							{data.name}
 							<span className="badge badge-danger bg-info badge-pill">
