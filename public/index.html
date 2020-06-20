@@ -131,24 +131,41 @@
 					$(this).tab('show');
 				});
 			});
+			// $.confirm({
+			// 	title: 'အသိပေးချက်!',
+			// 	content:
+			// 		'၂၀၂၀ အောင်စားရင်းယခု မထွက်ရှိသေးပါ။ ထွက်ရှိချိန်တွင်လည်း တိုက်ရိုက်စစ်ဆေးကြည့်နိုင်ပါပြီ။ မကြာခင် ၂၀၂၀ အောင်စာရင်း ထွက်ရှိတော့မှာ ဖြစ်ပါတယ်။',
+			// 	draggable: true,
+			// 	dragWindowBorder: false,
+			// });
+
 			$.confirm({
 				title: 'အသိပေးချက်!',
 				content:
-					'၂၀၂၀ အောင်စားရင်းယခု မထွက်ရှိသေးပါ။ ထွက်ရှိချိန်တွင်လည်း တိုက်ရိုက်စစ်ဆေးကြည့်နိုင်ပါပြီ။ မကြာခင် ၂၀၂၀ အောင်စာရင်း ထွက်ရှိတော့မှာ ဖြစ်ပါတယ်။',
-				draggable: true,
-				dragWindowBorder: false,
+					'၂၀၂၀ အတွက် အခု မထွက်ရှိသေးပေမယ့်လည်း ထွက်ရှိတာနဲ့ တစ်ပြိုင်နက် အမြန်ဆုံးဝင်ရောက် ကြည့်ရှုနိုင်ပါသည်။',
+				type: 'dark',
+				typeAnimated: true,
+				buttons: {
+					tryAgain: {
+						text: 'Yes',
+						btnClass: 'btn-dark',
+						action: function () {},
+					},
+					close: function () {},
+				},
 			});
+			sss;
 
-			$(document).ready(function () {
-				setInterval(function () {
-					cache_clear();
-				}, 10000);
-			});
+			// $(document).ready(function () {
+			// 	setInterval(function () {
+			// 		cache_clear();
+			// 	}, 10000);
+			// });
 
-			function cache_clear() {
-				// window.location.reload(true);
-				window.location.reload(); /* use this if you do not remove cache */
-			}
+			// function cache_clear() {
+			// 	// window.location.reload(true);
+			// 	window.location.reload(); /* use this if you do not remove cache */
+			// }
 		</script>
 	</body>
 </html>
