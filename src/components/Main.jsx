@@ -85,11 +85,11 @@ const Main = () => {
 
 			<div className="row">
 				<div className="col-12">
-					<footer className="text-center bg-light fixed-bottom mt-3">
-						<p className="lead">
+					<footer className="text-center bg-light fixed-bottom text-secondary mt-3 c--margin-top">
+						<p className="lead c--margin-bottom">
 							Developed by : &nbsp;
 							<a
-								className="chan-href text-primary"
+								className="chan-href text-info"
 								href="fb://profile/100010530133859"
 								target="_top"
 								rel="noopener noreferrer"
